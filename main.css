@@ -1,0 +1,52 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+header {
+  width: 100vw;
+  height: 20px;
+  background: #ccc;
+  padding: 0px;
+  display: flex;
+}
+
+.greeting__spacer {
+  flex: 9;
+}
+
+.greeting {
+  font-size: 0.8rem;
+  display: inline;
+  background-color: black;
+  color: #ccc;
+  margin: auto;
+  padding: 0px 10px;
+  flex: 1;
+  max-width: 160px;
+}
+
+.greeting:hover {
+  cursor: pointer;
+}
+
+main {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+}
+
+.cow__say {
+  margin: auto;
+  color: #32b31d;
+}
+
+.entry__link {
+  color: #725dfc;
+}
