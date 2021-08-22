@@ -1,0 +1,13 @@
+# Geminon --- A space hidden away from the internet
+
+Through Geminon, I hope to share my professional journey in tech. This is a purely techinical blog with Today I Learned(TIL) style notes in the hopes of creating an archive of random topics from studies, personal practice, and books that I read.
+
+I know that the internet has plenty of similar resoures on every imaginable topic with more authority. There are many like it but this one is _mine_. 
+
+Regards,
+Aravinth Manivannan
+(@realaravinth)
+
+## Disclaimer
+
+There's no guarentee that the information here is correct. As with everyting on the ineternet, take everyting with a grain of salt(in this case a spoonful), and please do your own research.
