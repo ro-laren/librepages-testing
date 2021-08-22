@@ -3,7 +3,7 @@ define add_cowsay
 endef
 
 define copy_styles
-	@cp main.css dist/
+	@cp -r css/ dist/
 endef
 
 define prod_build 
@@ -13,7 +13,7 @@ endef
 default: clean
 	@$(call add_cowsay)
 	@$(copy_styles)
-	@echo "Developments artifacts are available in dist/" 
+	@echo "Development artifacts are available in dist/" 
 
 prod: clean
 	@$(call copy_styles)
