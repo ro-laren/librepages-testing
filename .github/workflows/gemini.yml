@@ -17,10 +17,13 @@ jobs:
 
       - name: Build production website
         run: make prod
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+          
+          
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: gemini-dist
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist/content
+          token: ${{ secrets.GITHUB_TOKEN }}
+          folder: ./dist/content
+
+
