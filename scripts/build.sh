@@ -52,7 +52,6 @@ clean() {
 }
 
 last_mod() {
-	git --no-pager log -1 --pretty="format:%ci" $1
 	git --no-pager log -1 --pretty="format:Last modified: %ci%n" content/index.gmi
 }
 
