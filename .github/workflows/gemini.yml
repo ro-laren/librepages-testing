@@ -25,5 +25,3 @@ jobs:
           branch: gemini-dist
           token: ${{ secrets.GITHUB_TOKEN }}
           folder: ./dist/content
-
-
