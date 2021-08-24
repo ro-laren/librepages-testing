@@ -1,4 +1,4 @@
-default:
+default: prod
 	agate --content dist/content/ \
        --certs ./certs/ \
        --addr [::]:1965 \

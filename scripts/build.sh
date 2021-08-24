@@ -17,6 +17,7 @@
 
 readonly CONTENT_DIR=content
 readonly DIST_DIR=dist
+readonly DONATIONS="/donate.gmi"
 
 help() {
 	cat << EOF
@@ -62,16 +63,23 @@ prep_dist() {
 	done
 }
 
+nav() {
+	echo >> $NEW_FILE
+	echo "--------" >> $NEW_FILE
+	echo >> $NEW_FILE
+
+	last_mod $file >> $NEW_FILE
+	echo "=> / Home" >> $1
+	echo "=> $DONATIONS Donate" >> $1
+}
+
 build() {
 	prep_dist
 	for file in $(find $CONTENT_DIR -type f)
 	do 
-		readonly NEW_FILE=$DIST_DIR/$file
+		NEW_FILE=$DIST_DIR/$file
 		cat $file > $NEW_FILE
-		echo >> $NEW_FILE
-		echo "--------" >> $NEW_FILE
-		echo >> $NEW_FILE
-		last_mod $file >> $NEW_FILE
+		nav $NEW_FILE
 	done
 }
 
