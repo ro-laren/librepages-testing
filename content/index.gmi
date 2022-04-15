@@ -8,6 +8,10 @@ Regards,
 Aravinth Manivannan
 (@realaravinth)
 
+## Index
+
+=> ./posts/2022-04-15-social-coding.gmi Checkout Social Coding Community
+
 ## Disclaimer
 
 There's no guarentee that the information here is correct. As with everyting on the ineternet, take everyting with a grain of salt(in this case a spoonful), and please do your own research.

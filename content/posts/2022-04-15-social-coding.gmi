@@ -1,0 +1,7 @@
+# Social Coding
+
+Geminon is supposed to be an almost exclusive(exclusive through obsecurity, maybe?) cult-like collective but since we are off to a slow start, I'd like to recommend Social Coding, a community working towards developing methods to develop methods for sustainable software development.  
+
+=> https://coding.social/ Social Coding homepage
+
+Do check them out!
