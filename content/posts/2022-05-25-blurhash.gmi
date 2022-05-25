@@ -1,0 +1,12 @@
+# BlurHash: BlurHash is a compact representation of a placeholder for an image.
+
+
+Image previews in 30 bytes! The project repository has a more colorful sales pitch, so I'll re-post that here:
+
+> ## Why would you want this?
+> 
+> Does your designer cry every time you load their beautifully designed screen, and it is full of empty boxes because all the images have not loaded yet? Does your database engineer cry when you want to solve this by trying to cram little thumbnail images into your data to show as placeholders?
+
+=> https://github.com/woltapp/blurhash C implementation and links to implementations in other languages
+
+
