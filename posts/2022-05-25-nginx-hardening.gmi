@@ -1,0 +1,15 @@
+# nginx Hardening
+
+Mozilla runs a SSL configuration generator, which is capable of generating configurations for multiple servers(nginx, PostgreSQL, Apache, Redis, etc.)
+
+=> https://ssl-config.mozilla.org/
+
+General guide on nginx hardening
+
+=> https://beaglesecurity.com/blog/article/nginx-server-security.html
+
+--------
+
+Last modified: 2022-06-11 23:42:09 +0530
+=> / Home
+=> /donate.gmi Donate

@@ -1,0 +1,27 @@
+# Donations
+
+If you find my work useful, please consider donating. I have mCaptcha(see below) in the works but I will be jobless for a while post graduation(all thanks to my stellar performance /s).
+
+=> https://mcaptcha.org A privacy respecting, AGPL CAPTCHA with a kickass UX
+
+Some of the payment options are anonymous. You can optionally send email me at `realaravinth at batsense dot net`
+
+Thank you :)
+
+## XMR
+
+```
+86kh5kTEibeiwJpBCS3hTgfvhL3GY42BgBqgFxoFY9GfhkqjPuCEs8FAf7RnGjPTwgMGgWFHApKZaCvVWarZZLscUx2rQSR
+```
+
+=> https://batsense.net/realaravinth-donations-monero-address-qr.png Monero address QR code
+
+## Liberapay
+
+=> https://liberapay.com/realaravinth/donate Donate using Liberapay
+
+--------
+
+Last modified: 2022-06-11 23:42:09 +0530
+=> / Home
+=> /donate.gmi Donate
